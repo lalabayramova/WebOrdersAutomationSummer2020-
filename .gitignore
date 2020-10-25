@@ -1,0 +1,5 @@
+.idea
+target
+*.iml
+
+# thinga that we don't want to put in git
